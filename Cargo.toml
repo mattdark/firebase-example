@@ -1,0 +1,11 @@
+[package]
+name = "firebase_sample"
+version = "0.1.0"
+authors = ["mattdark"]
+edition = "2018"
+
+[dependencies]
+cpython = "0.2"
+serde = "1.0.82"
+serde_derive = "1.0.82"
+serde_json = "1.0.33"
