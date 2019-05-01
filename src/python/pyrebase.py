@@ -2,12 +2,12 @@ import json
 from firebase import Firebase
 def read_data(self):
     config = {
-        "apiKey": "AIzaSyD_mMNY7MH02I5jnEmT9XOTQkerWjFx2TY",
+        "apiKey": "APIKEY",
         "authDomain": "reveal-gallery.firebaseapp.com",
         "databaseURL": "https://reveal-gallery.firebaseio.com",
         "projectId": "reveal-gallery",
         "storageBucket": "reveal-gallery.appspot.com",
-        "messagingSenderId": "386555259289"
+        "messagingSenderId": "MESSAGINGSENDERID"
     }
     firebase = Firebase(config)
 
