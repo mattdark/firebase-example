@@ -1,0 +1,40 @@
+{
+  "slides" : {
+    "privacymatters" : {
+      "description" : "Talk about privacy & security",
+      "file" : "privacy-matters.md",
+      "id" : "2",
+      "screenshot" : "/img/screenshot/privacy-matters.png",
+      "theme" : "mozilla.css",
+      "title" : "Why Privacy Matters?",
+      "url" : "privacy-matters"
+    },
+    "rust101" : {
+      "description" : "Introduction to Rust",
+      "file" : "rust-101.md",
+      "id" : "1",
+      "screenshot" : "/img/screenshot/rust-101.png",
+      "theme" : "mozilla.css",
+      "title" : "Rust 101",
+      "url" : "rust-101"
+    },
+    "rustrocket" : {
+      "description" : "Building Web Apps with Rust + Rocket",
+      "file" : "rust-rocket.md",
+      "id" : "3",
+      "screenshot" : "/img/screenshot/rust-rocket.png",
+      "theme" : "mozilla.css",
+      "title" : "Rust + Rocket",
+      "url" : "rust-rocket"
+    },
+    "whyrust" : {
+      "description" : "What is Rust and Why Learn it?",
+      "file" : "why-rust.md",
+      "id" : "4",
+      "screenshot" : "/img/screenshot/why-rust.png",
+      "theme" : "mozilla.css",
+      "title" : "Why Rust?",
+      "url" : "why-rust"
+    }
+  }
+}
